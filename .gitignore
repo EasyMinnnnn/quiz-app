@@ -1,0 +1,15 @@
+# Bỏ qua thư mục cache của Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Bỏ qua file tạm hệ thống
+.DS_Store
+Thumbs.db
+
+# Bỏ qua cache của Streamlit (nếu có)
+.streamlit/
+
+# Bỏ qua môi trường ảo (nếu bạn tạo)
+venv/
